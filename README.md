@@ -1,4 +1,4 @@
-<h4 align="left">Hi 👋! My name is Emmanuel Nwoye. <br><br>I'm a backend developer with over 7 years of experience in software development, specializing in PHP, Node.js, and SQL-based technologies. I also have strong experience in frontend development with HTML, JavaScript, and AngularJS. My passion lies in building scalable, efficient systems that drive productivity, particularly in areas like database management, cloud integration (Google Cloud, Firebase), and API development.</h4>
+<h4 align="left">Hi 👋! My name is Emmanuel Nwoye. </h4><br><br> <p>I'm a backend developer with over 7 years of experience in software development, specializing in PHP, Node.js, and SQL-based technologies. I also have strong experience in frontend development with HTML, JavaScript, and AngularJS. My passion lies in building scalable, efficient systems that drive productivity, particularly in areas like database management, cloud integration (Google Cloud, Firebase), and API development.</p>
 
 ###
 
